@@ -10,5 +10,5 @@ Image Source: [NZZ Neue Zürcher Zeitung](https://www.facebook.com/nzz/)
 Incidentally, this is the reason why you should refrain from using [pie charts](http://www.businessinsider.com/pie-charts-are-the-worst-2013-6?IR=T) in most scenarios.
 
 
-## Other terrible things
+## Other things terribly visualised
 For more terrible data visualisations, see [WTF Visualisations](http://viz.wtf/)
